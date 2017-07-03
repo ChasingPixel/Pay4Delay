@@ -99,6 +99,7 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "Pay4Delay.dll" comes first in this list. */
 		"Pay4Delay.dll",
+		"FortySevenDeg.SwipeListView.dll",
 		"MySql.Data.CF.dll",
 	};
 	public static final String[] Dependencies = new String[]{

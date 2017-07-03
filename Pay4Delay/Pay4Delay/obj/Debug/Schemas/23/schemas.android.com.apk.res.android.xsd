@@ -2,7 +2,7 @@
 <xs:schema xmlns:p1="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>03.07.2017 10:47:04</xs:documentation>
+    <xs:documentation>03.07.2017 14:50:08</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -16716,6 +16716,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@+id/" />
             <xs:enumeration value="@+id/checkBox1" />
+            <xs:enumeration value="@id/anlegenButton" />
             <xs:enumeration value="@id/fahrerButton" />
             <xs:enumeration value="@id/fahrerSpinner" />
             <xs:enumeration value="@id/fahrtView" />
@@ -19586,6 +19587,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@id/anlegenButton" />
             <xs:enumeration value="@id/fahrerButton" />
             <xs:enumeration value="@id/fahrerSpinner" />
             <xs:enumeration value="@id/fahrtView" />
@@ -19669,6 +19671,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@id/anlegenButton" />
             <xs:enumeration value="@id/fahrerButton" />
             <xs:enumeration value="@id/fahrerSpinner" />
             <xs:enumeration value="@id/fahrtView" />
@@ -19752,6 +19755,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@id/anlegenButton" />
             <xs:enumeration value="@id/fahrerButton" />
             <xs:enumeration value="@id/fahrerSpinner" />
             <xs:enumeration value="@id/fahrtView" />
@@ -19835,6 +19839,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@id/anlegenButton" />
             <xs:enumeration value="@id/fahrerButton" />
             <xs:enumeration value="@id/fahrerSpinner" />
             <xs:enumeration value="@id/fahrtView" />
@@ -19918,6 +19923,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@id/anlegenButton" />
             <xs:enumeration value="@id/fahrerButton" />
             <xs:enumeration value="@id/fahrerSpinner" />
             <xs:enumeration value="@id/fahrtView" />
@@ -20241,6 +20247,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@id/anlegenButton" />
             <xs:enumeration value="@id/fahrerButton" />
             <xs:enumeration value="@id/fahrerSpinner" />
             <xs:enumeration value="@id/fahrtView" />
@@ -20324,6 +20331,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@id/anlegenButton" />
             <xs:enumeration value="@id/fahrerButton" />
             <xs:enumeration value="@id/fahrerSpinner" />
             <xs:enumeration value="@id/fahrtView" />
@@ -20407,6 +20415,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@id/anlegenButton" />
             <xs:enumeration value="@id/fahrerButton" />
             <xs:enumeration value="@id/fahrerSpinner" />
             <xs:enumeration value="@id/fahrtView" />
@@ -20530,6 +20539,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@id/anlegenButton" />
             <xs:enumeration value="@id/fahrerButton" />
             <xs:enumeration value="@id/fahrerSpinner" />
             <xs:enumeration value="@id/fahrtView" />
@@ -21055,6 +21065,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@id/anlegenButton" />
             <xs:enumeration value="@id/fahrerButton" />
             <xs:enumeration value="@id/fahrerSpinner" />
             <xs:enumeration value="@id/fahrtView" />
@@ -21138,6 +21149,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@id/anlegenButton" />
             <xs:enumeration value="@id/fahrerButton" />
             <xs:enumeration value="@id/fahrerSpinner" />
             <xs:enumeration value="@id/fahrtView" />
@@ -21221,6 +21233,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@id/anlegenButton" />
             <xs:enumeration value="@id/fahrerButton" />
             <xs:enumeration value="@id/fahrerSpinner" />
             <xs:enumeration value="@id/fahrtView" />
@@ -21304,6 +21317,7 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@id/anlegenButton" />
             <xs:enumeration value="@id/fahrerButton" />
             <xs:enumeration value="@id/fahrerSpinner" />
             <xs:enumeration value="@id/fahrtView" />

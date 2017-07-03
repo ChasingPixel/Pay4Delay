@@ -15,3 +15,21 @@ c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\bin\De
 c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\obj\Debug\android\assets\Pay4Delay.dll.mdb
 c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\obj\Debug\res\layout\neuefahrtlayout.xml
 C:\Users\Crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\bin\Debug\MySql.Data.CF.dll
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\bin\Debug\Pay4Delay.dll
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\bin\Debug\Pay4Delay.pdb
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\bin\Debug\Pay4Delay.Pay4Delay.apk
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\bin\Debug\Pay4Delay.Pay4Delay-Signed.apk
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\bin\Debug\MySql.Data.CF.dll
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\obj\Debug\Pay4Delay.csprojResolveAssemblyReference.cache
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\obj\Debug\Pay4Delay.dll
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\obj\Debug\Pay4Delay.pdb
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\obj\Debug\android\bin\Pay4Delay.Pay4Delay.apk
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\obj\Debug\res\layout\neuefahrtlayout.xml
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\obj\Debug\res\layout\main.xml
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\obj\Debug\res\values\strings.xml
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\obj\Debug\res\drawable\icon.png
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\obj\Debug\R.cs.flag
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\obj\Debug\uploadflags.txt
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\bin\Debug\Pay4Delay.dll.mdb
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\obj\Debug\android\assets\Pay4Delay.dll.mdb
+C:\Users\Crynet\Documents\GitHub\Pay4Delay\Pay4Delay\Pay4Delay\bin\Debug\FortySevenDeg.SwipeListView.dll

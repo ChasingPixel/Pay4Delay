@@ -47,6 +47,42 @@ namespace Pay4Delay
 		public partial class Attribute
 		{
 			
+			// aapt resource value: 0x7f010008
+			public const int swipeActionLeft = 2130771976;
+			
+			// aapt resource value: 0x7f010009
+			public const int swipeActionRight = 2130771977;
+			
+			// aapt resource value: 0x7f010001
+			public const int swipeAnimationTime = 2130771969;
+			
+			// aapt resource value: 0x7f010006
+			public const int swipeBackView = 2130771974;
+			
+			// aapt resource value: 0x7f010004
+			public const int swipeCloseAllItemsWhenMoveList = 2130771972;
+			
+			// aapt resource value: 0x7f01000a
+			public const int swipeDrawableChecked = 2130771978;
+			
+			// aapt resource value: 0x7f01000b
+			public const int swipeDrawableUnchecked = 2130771979;
+			
+			// aapt resource value: 0x7f010005
+			public const int swipeFrontView = 2130771973;
+			
+			// aapt resource value: 0x7f010007
+			public const int swipeMode = 2130771975;
+			
+			// aapt resource value: 0x7f010002
+			public const int swipeOffsetLeft = 2130771970;
+			
+			// aapt resource value: 0x7f010003
+			public const int swipeOffsetRight = 2130771971;
+			
+			// aapt resource value: 0x7f010000
+			public const int swipeOpenOnLongPress = 2130771968;
+			
 			static Attribute()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -76,32 +112,56 @@ namespace Pay4Delay
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060006
-			public const int fahrerButton = 2131099654;
-			
-			// aapt resource value: 0x7f060005
-			public const int fahrerSpinner = 2131099653;
-			
-			// aapt resource value: 0x7f060008
-			public const int fahrtView = 2131099656;
-			
-			// aapt resource value: 0x7f060007
-			public const int mitfahrerButton = 2131099655;
+			// aapt resource value: 0x7f060010
+			public const int anlegenButton = 2131099664;
 			
 			// aapt resource value: 0x7f060000
-			public const int neueFahrtButton = 2131099648;
-			
-			// aapt resource value: 0x7f060001
-			public const int punkteButton = 2131099649;
-			
-			// aapt resource value: 0x7f060003
-			public const int relativeLayout1 = 2131099651;
+			public const int both = 2131099648;
 			
 			// aapt resource value: 0x7f060004
-			public const int textView1 = 2131099652;
+			public const int choice = 2131099652;
+			
+			// aapt resource value: 0x7f060005
+			public const int dismiss = 2131099653;
+			
+			// aapt resource value: 0x7f06000d
+			public const int fahrerButton = 2131099661;
+			
+			// aapt resource value: 0x7f06000c
+			public const int fahrerSpinner = 2131099660;
+			
+			// aapt resource value: 0x7f06000f
+			public const int fahrtView = 2131099663;
+			
+			// aapt resource value: 0x7f060001
+			public const int left = 2131099649;
+			
+			// aapt resource value: 0x7f06000e
+			public const int mitfahrerButton = 2131099662;
+			
+			// aapt resource value: 0x7f060007
+			public const int neueFahrtButton = 2131099655;
 			
 			// aapt resource value: 0x7f060002
-			public const int verlaufButton = 2131099650;
+			public const int none = 2131099650;
+			
+			// aapt resource value: 0x7f060008
+			public const int punkteButton = 2131099656;
+			
+			// aapt resource value: 0x7f06000a
+			public const int relativeLayout1 = 2131099658;
+			
+			// aapt resource value: 0x7f060006
+			public const int reveal = 2131099654;
+			
+			// aapt resource value: 0x7f060003
+			public const int right = 2131099651;
+			
+			// aapt resource value: 0x7f06000b
+			public const int textView1 = 2131099659;
+			
+			// aapt resource value: 0x7f060009
+			public const int verlaufButton = 2131099657;
 			
 			static Id()
 			{
@@ -147,6 +207,69 @@ namespace Pay4Delay
 			}
 			
 			private String()
+			{
+			}
+		}
+		
+		public partial class Styleable
+		{
+			
+			public static int[] SwipeListView = new int[] {
+					2130771968,
+					2130771969,
+					2130771970,
+					2130771971,
+					2130771972,
+					2130771973,
+					2130771974,
+					2130771975,
+					2130771976,
+					2130771977,
+					2130771978,
+					2130771979};
+			
+			// aapt resource value: 8
+			public const int SwipeListView_swipeActionLeft = 8;
+			
+			// aapt resource value: 9
+			public const int SwipeListView_swipeActionRight = 9;
+			
+			// aapt resource value: 1
+			public const int SwipeListView_swipeAnimationTime = 1;
+			
+			// aapt resource value: 6
+			public const int SwipeListView_swipeBackView = 6;
+			
+			// aapt resource value: 4
+			public const int SwipeListView_swipeCloseAllItemsWhenMoveList = 4;
+			
+			// aapt resource value: 10
+			public const int SwipeListView_swipeDrawableChecked = 10;
+			
+			// aapt resource value: 11
+			public const int SwipeListView_swipeDrawableUnchecked = 11;
+			
+			// aapt resource value: 5
+			public const int SwipeListView_swipeFrontView = 5;
+			
+			// aapt resource value: 7
+			public const int SwipeListView_swipeMode = 7;
+			
+			// aapt resource value: 2
+			public const int SwipeListView_swipeOffsetLeft = 2;
+			
+			// aapt resource value: 3
+			public const int SwipeListView_swipeOffsetRight = 3;
+			
+			// aapt resource value: 0
+			public const int SwipeListView_swipeOpenOnLongPress = 0;
+			
+			static Styleable()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Styleable()
 			{
 			}
 		}

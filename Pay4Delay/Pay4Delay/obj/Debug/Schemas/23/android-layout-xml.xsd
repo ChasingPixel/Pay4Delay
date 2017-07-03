@@ -5,7 +5,7 @@
   <xs:import schemaLocation="schemas.android.com.tools.xsd" namespace="http://schemas.android.com/tools" />
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>03.07.2017 10:47:04</xs:documentation>
+    <xs:documentation>03.07.2017 14:50:08</xs:documentation>
   </xs:annotation>
   <xs:group name="any-view">
     <xs:choice>
@@ -82,6 +82,7 @@
       <xs:element ref="HorizontalScrollView" />
       <xs:element ref="SearchView" />
       <xs:element ref="fragment" />
+      <xs:element ref="com.fortysevendeg.swipelistview.SwipeListView" />
       <xs:element ref="include" />
     </xs:choice>
   </xs:group>
@@ -1429,6 +1430,29 @@
     <xs:attribute ref="p1:layout_marginStart" />
     <xs:attribute ref="p1:layout_marginEnd" />
     <xs:attribute ref="p1:style" />
+  </xs:complexType>
+  <xs:element name="com.fortysevendeg.swipelistview.SwipeListView" type="com.fortysevendeg.swipelistview.SwipeListView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: FortySevenDeg.SwipeListView.SwipeListView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.fortysevendeg.swipelistview.SwipeListView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="ListView">
+        <xs:attribute ref="app:swipeOpenOnLongPress" />
+        <xs:attribute ref="app:swipeAnimationTime" />
+        <xs:attribute ref="app:swipeOffsetLeft" />
+        <xs:attribute ref="app:swipeOffsetRight" />
+        <xs:attribute ref="app:swipeCloseAllItemsWhenMoveList" />
+        <xs:attribute ref="app:swipeFrontView" />
+        <xs:attribute ref="app:swipeBackView" />
+        <xs:attribute ref="app:swipeMode" />
+        <xs:attribute ref="app:swipeActionLeft" />
+        <xs:attribute ref="app:swipeActionRight" />
+        <xs:attribute ref="app:swipeDrawableChecked" />
+        <xs:attribute ref="app:swipeDrawableUnchecked" />
+      </xs:extension>
+    </xs:complexContent>
   </xs:complexType>
   <xs:element name="include" type="include">
     <xs:annotation>

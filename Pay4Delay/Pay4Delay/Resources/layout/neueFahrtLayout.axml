@@ -34,4 +34,11 @@
         p1:layout_height="wrap_content"
         p1:layout_below="@id/fahrerButton"
         p1:id="@+id/fahrtView" />
+    <Button
+        p1:text="Fahrt anlegen"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:layout_below="@id/fahrerSpinner"
+        p1:id="@+id/anlegenButton"
+        p1:layout_toRightOf="@id/mitfahrerButton" />
 </RelativeLayout>
