@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:text="Neue Fahrt anlegen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/neueFahrtButton" />
+    <Button
+        android:text="Punkte anzeigen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/punkteButton" />
+    <Button
+        android:text="Verlauf anzeigen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/verlaufButton" />
+</LinearLayout>

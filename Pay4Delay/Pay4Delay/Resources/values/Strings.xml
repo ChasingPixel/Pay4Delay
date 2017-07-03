@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">Pay4Delay</string>
+  <string-array name="names_array">
+    <item>Harald</item>
+    <item>Hans</item>
+    <item>Karla</item>
+    <item>Rüdiger</item>
+  </string-array>
+</resources>

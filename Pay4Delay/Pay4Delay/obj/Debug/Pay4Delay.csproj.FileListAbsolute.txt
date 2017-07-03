@@ -1,0 +1,17 @@
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\bin\Debug\Pay4Delay.dll
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\bin\Debug\Pay4Delay.pdb
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\bin\Debug\Pay4Delay.Pay4Delay.apk
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\bin\Debug\Pay4Delay.Pay4Delay-Signed.apk
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\obj\Debug\Pay4Delay.csprojResolveAssemblyReference.cache
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\obj\Debug\Pay4Delay.dll
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\obj\Debug\Pay4Delay.pdb
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\obj\Debug\android\bin\Pay4Delay.Pay4Delay.apk
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\obj\Debug\res\layout\main.xml
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\obj\Debug\res\values\strings.xml
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\obj\Debug\res\drawable\icon.png
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\obj\Debug\R.cs.flag
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\obj\Debug\uploadflags.txt
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\bin\Debug\Pay4Delay.dll.mdb
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\obj\Debug\android\assets\Pay4Delay.dll.mdb
+c:\users\crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\obj\Debug\res\layout\neuefahrtlayout.xml
+C:\Users\Crynet\documents\visual studio 2017\Projects\Pay4Delay\Pay4Delay\bin\Debug\MySql.Data.CF.dll

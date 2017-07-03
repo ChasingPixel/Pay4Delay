@@ -1,0 +1,8 @@
+Pay4Delay.FahrtAnlegenActivity, Pay4Delay;md57abdd00d62a9e7d39997e939fad74c8d.FahrtAnlegenActivity
+Pay4Delay.FahrtAnlegenActivity, Pay4Delay, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57abdd00d62a9e7d39997e939fad74c8d.FahrtAnlegenActivity
+Pay4Delay.FahrtAnlegenActivity;md57abdd00d62a9e7d39997e939fad74c8d.FahrtAnlegenActivity
+pay4delay.FahrtAnlegenActivity;md57abdd00d62a9e7d39997e939fad74c8d.FahrtAnlegenActivity
+Pay4Delay.MainActivity, Pay4Delay;md57abdd00d62a9e7d39997e939fad74c8d.MainActivity
+Pay4Delay.MainActivity, Pay4Delay, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57abdd00d62a9e7d39997e939fad74c8d.MainActivity
+Pay4Delay.MainActivity;md57abdd00d62a9e7d39997e939fad74c8d.MainActivity
+pay4delay.MainActivity;md57abdd00d62a9e7d39997e939fad74c8d.MainActivity
